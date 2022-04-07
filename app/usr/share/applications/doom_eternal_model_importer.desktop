@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Doom Eternal Model Importer
+Comment=A GUI tool for converting .OBJ format models into the .LWO format used by DOOM Eternal.
+Exec=doom_eternal_model_importer
+Icon=doom_eternal_model_importer
+Categories=Utility;
